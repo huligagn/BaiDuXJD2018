@@ -112,3 +112,6 @@ datasets/
 *.jpeg
 *.jpg
 *.zip
+*.npy
+*.csv
+*.json
